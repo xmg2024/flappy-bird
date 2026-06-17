@@ -13,9 +13,7 @@ python flappy_bird_ai.py
 
 你会看到多只小鸟同时在屏幕上飞行，这代表 NEAT 种群中的不同个体。表现最好的个体会保留下来进行下一代的进化！
 
-![Uploading img_v3_0212o_0491adf9-841f-4f2e-bac4-b2e7c0751b1g.gif…]()
-
-
+![Uploading img_v3_0212o_f43ea828-5e60-4f9d-9f2c-acf10a405ceg.gif…]()
 
 
 ## 🧠 核心逻辑详解
